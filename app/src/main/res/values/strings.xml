@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Comptador</string>
+    <string name="touchme">Tocam</string>
+    <string name="timeText">Temps disponible:%1$d</string>
+    <string name="counterText">Puntuació:%1$d</string>
+    <string name="endGame">Temps acabat!</string>
+</resources>
